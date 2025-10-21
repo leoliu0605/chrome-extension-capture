@@ -68,3 +68,16 @@ Load `dist` directory
 
 ## Test
 `npx jest` or `npm run test`
+
+---
+
+# Capture
+
+Everything you need to share through images.
+
+## Links
+
+- https://github.com/lemehovskiy/vs-code-image-editor
+- https://github.com/CH563/shot-easy-website
+- https://github.com/sindresorhus/clipboard-image
+
